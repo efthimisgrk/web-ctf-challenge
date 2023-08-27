@@ -15,7 +15,7 @@ To run the CTF challenge locally, follow these steps:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/web-ctf-challenge.git
+git clone https://github.com/efthimisgrk/web-ctf-challenge.git
 cd web-ctf-challenge
 ```
 
